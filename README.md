@@ -8,7 +8,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Social proof](https://0rder-summary-card.netlify.app/)
+- Live Site URL: [Social proof](https://social-pr00f.netlify.app/)
 
 ## Built with
 
